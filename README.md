@@ -251,12 +251,12 @@ GMP PREDICTIVE MAINTENANCE ARCHITECTURE
 
 ---
 
-## Integrated AI/Framework Compliance Solution Suite
+## Integrated AI/Regulatory Framework Compliance Solution Suite
 
 <img width="3604" height="1834" alt="Image" src="https://github.com/user-attachments/assets/46ce0327-f890-41f9-9dc4-a5d95b54bcdc" />
 
 
-<img width="3604" height="1834" alt="Image" src="https://github.com/user-attachments/assets/fda151a2-5491-4797-a264-aecee344a6b8" />
+
 
 ---
 
