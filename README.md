@@ -332,7 +332,8 @@ COMPLIANCE-FIRST DATA SOURCING & DATA MANGEMENT APPROACH
 ```
 ### OVERALL INTEGRATED ON-PREM/CLOUD FRAMEWORK
 
-<img width="4750" height="3636" alt="Image" src="https://github.com/user-attachments/assets/5237013c-91c3-4202-903b-c2ed48d457b0" />
+<img width="4750" height="3636" alt="Image" src="https://github.com/user-attachments/assets/ed89fd47-d3b5-4fde-bd2a-ab7a4af370a1" />
+
 
 ---
 
