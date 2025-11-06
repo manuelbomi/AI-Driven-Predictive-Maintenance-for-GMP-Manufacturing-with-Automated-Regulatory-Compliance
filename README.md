@@ -1043,7 +1043,7 @@ class AutomatedRetraining:
 
 ## Implementation Roadmap
 
-<img width="5100" height="1280" alt="Image" src="https://github.com/user-attachments/assets/04faca0d-5aea-493b-9fce-3582a30e8333" />
+<img width="5100" height="1280" alt="Image" src="https://github.com/user-attachments/assets/f5f4ff00-d5a0-4148-bbda-267e01244b74" />
 
 
 ## Future Enhancements
