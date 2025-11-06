@@ -91,6 +91,7 @@
 
 #### <ins>Hybrid On-Prem/Cloud Architecture</ins>  (high level)
 
+
 <img width="3504" height="3210" alt="Image" src="https://github.com/user-attachments/assets/01410440-a6b3-4811-9b37-c9ea649fc0a8" />
 
 ---
