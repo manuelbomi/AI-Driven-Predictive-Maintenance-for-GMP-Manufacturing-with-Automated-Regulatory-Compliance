@@ -134,7 +134,7 @@
                     │                        │
                     ▼                        │
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                        AZURE CLOUD PLATFORM                                │
+│                        AZURE CLOUD PLATFORM                                 │
 ├──────────────────┐    ┌──────────────────┐    ┌─────────────────────────────┤
 │   DATA INGESTION │    │   PROCESSING &   │    │     AI/ML SERVICES          │
 │                  │    │     STORAGE      │    │                             │
@@ -293,7 +293,7 @@ COMPLIANCE-FIRST AI ARCHITECTURE
 ├─────────────────┼───────────────────┼───────────────────┼───────────────────┤
 │ • LSTM with     │ • Meta-Learner    │ • Feature         │ • Canary Release  │
 │   Temporal      │   with Compliance │   Importance      │   with Validation │
-│   Audit Trail   │   Weights         │   Scoring        │ • Shadow Mode     │
+│   Audit Trail   │   Weights         │   Scoring         │ • Shadow Mode     │
 │ • BERT with     │ • Context-Aware   │ • Prediction      │   Deployment      │
 │   Attention     │   Model Selection │   Breakdown       │ • Automated       │
 │   Explanations  │ • Ensemble        │ • Risk Factor     │   Rollback        │
@@ -317,7 +317,7 @@ COMPLIANCE-FIRST DATA SOURCING & DATA MANGEMENT APPROACH
 │  └─────────────┘│    │                  │    │                     │
 │                 │    │  ┌─────────────┐ │    │  ┌─────────────────┐│
 │  ┌─────────────┐│    │  │ SHAP        │ │    │  │   FDA 21 CFR    ││
-│  │ EU Annex 11 ├─────►  │ Explainability │    │  │   Part 11       ││
+│  │ EU Annex 11 ├─────►  │ Explainability     │  │   Part 11      ││
 │  │ Compliant   ││    │  │ Engine      │ │    │  └─────────────────┘│
 │  └─────────────┘│    │  └─────────────┘ │    │                     │
 │                 │    │                  │    │  ┌─────────────────┐│
