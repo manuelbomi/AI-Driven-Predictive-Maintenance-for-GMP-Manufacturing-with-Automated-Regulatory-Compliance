@@ -1,4 +1,4 @@
-## AI-Driven Predictive Maintenance for GMP Manufacturing with Automated Regulatory Compliance (Regeneron IOPS)  
+## AI-Driven Predictive Maintenance for Good Manufacturing Practice (GMP) Manufacturing with Automated Regulatory Compliance 
 
 > [!NOTE]
 > ### <ins>Regulatory Frameworks covered</ins>:  GAMP 5 , ALCOA+ , FDA CFR Part 11 & EU GMP Annex 11 
@@ -7,7 +7,7 @@
 
 ##   Executive Summary
 
-##### This project implements a comprehensive AI-driven predictive maintenance solution for Regeneron's GMP manufacturing environment with fully automated regulatory compliance. Our hybrid ensemble approach combines LSTM, BERT, and XGBoost models with integrated SHAP explainability to deliver accurate, transparent, and regulatory-compliant equipment failure predictions while ensuring full adherence to GAMP5, ALCOA+, FDA CFR Part 11, and EU GMP Annex 11 requirements.
+##### This project implements a comprehensive AI-driven predictive maintenance solution for a GMP manufacturing environment with fully automated regulatory compliance. Our hybrid ensemble approach combines LSTM, BERT, and XGBoost models with integrated SHAP explainability to deliver accurate, transparent, and regulatory-compliant equipment failure predictions while ensuring full adherence to GAMP5, ALCOA+, FDA CFR Part 11, and EU GMP Annex 11 requirements.
 
 > [!IMPORTANT]
 > <ins> Automated Regulatory Complinace Innovation</ins>: Our solution features automated compliance frameworks that continuously validate and document adherence to all major pharmaceutical regulatory standards, providing real-time compliance monitoring, automated audit trail generation, and comprehensive validation packages ready for regulatory inspection.
